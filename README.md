@@ -1,5 +1,5 @@
 # H1D024115-Pertemuan1-PrakKB
-**Pengimplementasian 3 Konsep Sesuai Instruksi pada Soal**
+**Pengimplementasian 3 Konsep:**
 
 **1. Struktur Kontrol**
 
@@ -7,12 +7,13 @@ Konsep struktur kontrol yang diimplementasikan pada program ini terdiri dari:
 
 a. Perulangan (Looping)
 
-Looping for terletak pada baris ke-15.
-Looping while terletak pada baris ke-30.
+Looping for terdapat pada baris ke-20.
+Looping while terdapat pada baris ke-34.
+
 b. Percabangan
 
-Percabangan if-else terletak pada baris ke-21 sampai 25.
-Percabangan if terletak pada baris ke-33.
+Percabangan if-else terdapat pada baris ke-26 sampai 30.
+Percabangan if terdapat pada baris ke-38.
 
 **2. Struktur Data**
 
