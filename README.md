@@ -1,6 +1,7 @@
 # H1D024115-Pertemuan1-PrakKB
 Pengumpulan tugas praktikum Kecerdasan Buatan pertemuan 1.
-Pengimplementasian 3 Konsep Sesuai Instruksi pada Soal
+
+#Pengimplementasian 3 Konsep Sesuai Instruksi pada Soal
 1. Struktur Kontrol
 
 Konsep struktur kontrol yang diimplementasikan pada program ini terdiri dari:
