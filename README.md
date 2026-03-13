@@ -8,11 +8,13 @@ Konsep struktur kontrol yang diimplementasikan pada program ini terdiri dari:
 a. Perulangan (Looping)
 
 Looping for terdapat pada baris ke-20.
+
 Looping while terdapat pada baris ke-34.
 
 b. Percabangan
 
 Percabangan if-else terdapat pada baris ke-26 sampai 30.
+
 Percabangan if terdapat pada baris ke-38.
 
 **2. Struktur Data**
